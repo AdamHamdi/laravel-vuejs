@@ -11,7 +11,7 @@
 
                 </div>
                 <div class="form-group">
-                    <label for="email"> Password:</label>
+                    <label for="password"> Password:</label>
                     <input type='password' v-model="password" placeholder="Wrap your password here"
                     id='password' class ='form-control' name='password' required 
                   > <div style="color:red;" v-if="error">{{ error }}</div> 

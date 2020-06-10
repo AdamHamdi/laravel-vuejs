@@ -1,5 +1,5 @@
 <template>
-
+<div style="background:#dfe4ea;">
  <div data-target="#navbarSupportedContent "> 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
  <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -29,6 +29,7 @@
 </div>
 </nav>
 </div> 
+</div>
 </template>
 <script>
 
